@@ -1,0 +1,3 @@
+# AI BI dailog:
+
+# Create an airline operations dashboard using the Abu Dhabi Airline gold-layer data. Include KPI cards for total flights, delayed flights, average delay minutes, and total bookings. Add visualizations for flights by route, average delay by route, aircraft utilization by total flights, and booking demand by flight. Focus on operational performance and use clear business-friendly titles.
